@@ -1,0 +1,10 @@
+Added Component: Designator=VT?(TO-220(bend2))
+Add component (AddParameter): Name = "ID"; Value = "T-0008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "IRF640_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200V 18A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "¹"; Value = "8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR7_2 Pin=VT?-1
+Added Pin To Net: NetName=NetT_2 Pin=VT?-2
+Added Pin To Net: NetName=NetT_2 Pin=VT?-2
+Added Pin To Net: NetName=NetR6_2 Pin=VT?-3

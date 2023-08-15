@@ -1,0 +1,13 @@
+Change Component Comment : Designator=X2 Old Comment=20V/GND New Comment=OUT 20 V
+Change Component Comment : Designator=X3 Old Comment=GND/ADC New Comment=ADC
+Added Component: Designator=T(TRANS_STANDBAY)
+Add component (AddParameter): Name = "Part Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "XX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "¹"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+300V Pin=T-1
+Added Pin To Net: NetName=NetT_2 Pin=T-2
+Added Pin To Net: NetName=NetT_3 Pin=T-3
+Added Pin To Net: NetName=GND Pin=T-4
+Added Pin To Net: NetName=GND Pin=T-5
+Added Pin To Net: NetName=NetT_6 Pin=T-6
