@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetR6_2 Pin=R9-1
+Removed Pin From Net: NetName=+300V Pin=T-1
+Removed Pin From Net: NetName=GND Pin=T-4
+Removed Pin From Net: NetName=GND_1 Pin=T-5
+Removed Pin From Net: NetName=NetC6_2 Pin=U1-7
+Removed Pin From Net: NetName=NetR6_2 Pin=VD5-2
+Removed Pin From Net: NetName=NetC6_2 Pin=VD7-1
+Added Component: Designator=T?(TRANS_ETD_29)
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=+300V Pin=T?-1
+Added Pin To Net: NetName=GND Pin=T?-4
+Added Pin To Net: NetName=GND_1 Pin=T?-6
+Added Pin To Net: NetName=GND_1 Pin=T?-8
+Added Pin To Net: NetName=GND Pin=VD5-2
+Added Net: Name=NetC12_2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetT?_2 Pin=T?-2
+Added Pin To Net: NetName=NetT?_2 Pin=VD6-2
+Added Pin To Net: NetName=NetT?_2 Pin=VT1-2
+Added Pin To Net: NetName=NetT?_2 Pin=VT1-2
+Added Net: Name=NetT?_2
+Added Pin To Net: NetName=NetT?_3 Pin=T?-3
+Added Pin To Net: NetName=NetT?_3 Pin=VD7-2
+Added Net: Name=NetT?_3
+Added Pin To Net: NetName=NetT?_5 Pin=T?-5
+Added Net: Name=NetT?_5
+Added Pin To Net: NetName=NetT?_7 Pin=T?-7
+Added Pin To Net: NetName=NetT?_7 Pin=VD8-2
+Added Net: Name=NetT?_7
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=VD7-1
+Added Net: Name=NetU1_7
